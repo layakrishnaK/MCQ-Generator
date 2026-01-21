@@ -1,4 +1,4 @@
-openai
+boltiotai
 langchain
 streamlit
 python-dotenv
